@@ -105,7 +105,7 @@ streamlit run src/ui.py
 
 Prediction Output
  Sample Prediction Result
-
+<img width="1919" height="930" alt="Image" src="https://github.com/user-attachments/assets/bfcebf03-bd15-4377-92eb-6e4f61598506" />
 
 Example:
 
