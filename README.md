@@ -108,6 +108,7 @@ Prediction Output
 <img width="1919" height="930" alt="Image" src="https://github.com/user-attachments/assets/bfcebf03-bd15-4377-92eb-6e4f61598506" />
 <img width="1909" height="861" alt="Image" src="https://github.com/user-attachments/assets/5f09c708-4be1-42b5-8036-800eb9eaf7ef" />
 <img width="1919" height="930" alt="Image" src="https://github.com/user-attachments/assets/bfcebf03-bd15-4377-92eb-6e4f61598506" />
+<img width="1919" height="940" alt="Image" src="https://github.com/user-attachments/assets/f3063576-8173-423d-891a-06477d75ca29" />
 Example:
 
 Prediction: Churn
