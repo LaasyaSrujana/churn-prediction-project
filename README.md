@@ -106,8 +106,7 @@ streamlit run src/ui.py
 Prediction Output
  Sample Prediction Result
 <img width="1919" height="930" alt="Image" src="https://github.com/user-attachments/assets/bfcebf03-bd15-4377-92eb-6e4f61598506" />
-<img width="1909" height="861" alt="Image" src="https://github.com/user-attachments/assets/5f09c708-4be1-42b5-8036-800eb9eaf7ef" />
-
+<img width="1912" height="886" alt="Image" src="https://github.com/user-attachments/assets/95c5770d-6b43-4de8-af4f-6d16f6551b50" />
 Example:
 
 Prediction: Churn
